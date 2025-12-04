@@ -26,7 +26,7 @@ Copper CAM
 
 
 ### Engraving G Code
-%
+%   
 ( CopperCAM - 02/10/2025 / ISO-Mill Output )
 ( C:\COPPERCAM\CopperCAM.iso created 20/11/2025 at 11:57 )
 ( Workpiece dimensions: 61.9 x 46.98 x 1 mm )
@@ -1631,10 +1631,10 @@ G01 X40.112
 G00 Z2
 M05
 M02
-%
+%   
 
 ENGRAVING CODE 2:
-%
+%   
 ( CopperCAM - 02/10/2025 / ISO-Mill Output )
 ( C:\COPPERCAM\CopperCAM.iso created 20/11/2025 at 11:57 )
 ( Workpiece dimensions: 61.9 x 46.98 x 1 mm )
@@ -3401,11 +3401,11 @@ G01 Y15.86
 G00 Z2
 M05
 M02
-%
+%   
 
 ### Drill G Code
 Drill 0.8
-%
+%   
 ( CopperCAM - 02/10/2025 / ISO-Mill Output )
 ( C:\COPPERCAM\CopperCAM.iso created 20/11/2025 at 11:52 )
 ( Workpiece dimensions: 61.9 x 46.98 x 1 mm )
@@ -3468,9 +3468,10 @@ G01 F60 Z-1
 G00 Z2
 M05
 M02
-%
+%   
+
 Drill 1.1
-%
+%  
 ( CopperCAM - 02/10/2025 / ISO-Mill Output )
 ( C:\COPPERCAM\CopperCAM.iso created 20/11/2025 at 11:54 )
 ( Workpiece dimensions: 61.9 x 46.98 x 1 mm )
@@ -3547,10 +3548,10 @@ G01 F60 Z-1
 G00 Z2
 M05
 M02
-%
+%   
 
 ### Cutting G Code
-%
+%   
 ( CopperCAM - 02/10/2025 / ISO-Mill Output )
 ( C:\COPPERCAM\CopperCAM.iso created 20/11/2025 at 11:58 )
 ( Workpiece dimensions: 61.9 x 46.98 x 1 mm )
